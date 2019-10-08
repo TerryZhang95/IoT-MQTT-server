@@ -18,7 +18,7 @@ API to data visualization platform
         {  
             "Wifilist":[],  
             "SensingData":"",  
-            "IMEI":""  
+            "IMEI":"",  
             "MACHINE_ID":"",
             "MESSAGR":"",  
             "STATUS":"",  
