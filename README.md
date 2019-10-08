@@ -12,6 +12,7 @@ API to Management portal
 API to data visualization platform  
 
 ## IoT data format
+```JSON
 {  
     "TerryTest":  
         {  
@@ -24,3 +25,4 @@ API to data visualization platform
             "SHADOW":""  
         }  
 }
+```
