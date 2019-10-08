@@ -1,0 +1,1 @@
+* * * * * /usr/bin/node /root/IoT_Backend/lib/simlocation.js > /root/log;

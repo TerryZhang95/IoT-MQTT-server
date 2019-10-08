@@ -1,0 +1,6 @@
+
+.DS_Store
+node_modules
+lib/config.json
+temp/mqttLog
+temp/mqttLog.txt
