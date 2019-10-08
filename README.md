@@ -1,6 +1,6 @@
-# IoT_Backend
-IoT_backend  
-## Version 1
+# IOT_MQTT_SERVER
+An IoT backend data processing example  
+## FUNCTIONS
 MQTT server  
 Crontab task to execute  
 Log management  
